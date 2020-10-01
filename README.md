@@ -6,4 +6,5 @@ api's using node.js and express.js and database as postgresql
 #connect to server and import csv into postgresql         
 #change server input in queries.js      
 
-
+try :
+https://github.com/kanakapalli/cheatbook_data_analysis
